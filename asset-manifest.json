@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/my-app-wup-tz/static/css/main.176310fc.chunk.css",
+    "main.js": "/my-app-wup-tz/static/js/main.a438499a.chunk.js",
+    "main.js.map": "/my-app-wup-tz/static/js/main.a438499a.chunk.js.map",
+    "runtime-main.js": "/my-app-wup-tz/static/js/runtime-main.5edfec7f.js",
+    "runtime-main.js.map": "/my-app-wup-tz/static/js/runtime-main.5edfec7f.js.map",
+    "static/js/2.dd218799.chunk.js": "/my-app-wup-tz/static/js/2.dd218799.chunk.js",
+    "static/js/2.dd218799.chunk.js.map": "/my-app-wup-tz/static/js/2.dd218799.chunk.js.map",
+    "static/js/3.b31e0dab.chunk.js": "/my-app-wup-tz/static/js/3.b31e0dab.chunk.js",
+    "static/js/3.b31e0dab.chunk.js.map": "/my-app-wup-tz/static/js/3.b31e0dab.chunk.js.map",
+    "index.html": "/my-app-wup-tz/index.html",
+    "static/css/main.176310fc.chunk.css.map": "/my-app-wup-tz/static/css/main.176310fc.chunk.css.map",
+    "static/js/2.dd218799.chunk.js.LICENSE.txt": "/my-app-wup-tz/static/js/2.dd218799.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5edfec7f.js",
+    "static/js/2.dd218799.chunk.js",
+    "static/css/main.176310fc.chunk.css",
+    "static/js/main.a438499a.chunk.js"
+  ]
+}
